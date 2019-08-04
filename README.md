@@ -1,2 +1,0 @@
-# dynamictablerendering
-Created with CodeSandbox
